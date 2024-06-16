@@ -1,0 +1,8 @@
+com\mycompany\csv\CsvFileReader.class
+com\mycompany\csv\Main.class
+com\mycompany\csv\PersonService.class
+com\mycompany\csv\Person.class
+com\mycompany\csv\PersonAnalyzer.class
+com\mycompany\csv\CsvFileWriter.class
+com\mycompany\csv\CsvFileWriterImpl.class
+com\mycompany\csv\CsvFileReaderImpl.class
